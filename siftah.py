@@ -1,0 +1,3 @@
+print("Yapay " , "Zeka " , "Teknolojileri")
+
+
